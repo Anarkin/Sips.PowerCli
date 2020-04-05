@@ -47,4 +47,4 @@ From           To                      FromSize    ToSize      Percent
 ## Building and publishing
 
 1. Start `build.ps1` to generate a new `.psd1` manifest file
-2. Start `publish.ps1` to publish a new version to [PowerShell Gallery](https://www.powershellgallery.com)
+2. Start `publish.ps1` to publish a new version to [PowerShell Gallery](https://www.powershellgallery.com) / [Sips.PowerCli](https://www.powershellgallery.com/packages/Sips.PowerCli)
