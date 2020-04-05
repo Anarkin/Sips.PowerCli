@@ -11,7 +11,7 @@ Pipeable filters built on top of [Sips (Scriptable image processing system)](htt
 
 ## One-time setup
 
-- `Install-Module Sips.PowerCli`
+- PS > `Install-Module Sips.PowerCli`
 
 ## Examples
 
