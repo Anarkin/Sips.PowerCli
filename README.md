@@ -15,7 +15,7 @@ Pipeable filters built on top of [Sips (Scriptable image processing system)](htt
 
 ## Examples
 
-```powershell
+```
 PS /Users/<you>/Downloads/icloudphotos>    $files | ConvertTo-SipsJpgExif -Quality 50
 (...)
 
